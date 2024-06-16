@@ -1,0 +1,14 @@
+.container-box-todo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 15px;
+  border: 1px solid black;
+  margin-top: 2%;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

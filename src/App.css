@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-box {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(107, 220, 246);
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+}
